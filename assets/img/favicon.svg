@@ -1,6 +1,1 @@
-<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
-<rect width="64" height="64" rx="14" fill="#AA151B"/>
-<text x="7" y="42" font-family="Georgia, serif" font-size="32" fill="white">A</text>
-<text x="30" y="42" font-family="Georgia, serif" font-size="32" fill="#F1BF00">E</text>
-<text x="46" y="42" font-family="Georgia, serif" font-size="28" fill="white">S</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120"><rect width="120" height="120" rx="20" fill="#111111"/><text x="16" y="76" font-family="Georgia,serif" font-size="54" letter-spacing="3"><tspan fill="#AA151B">A</tspan><tspan fill="#F1BF00">E</tspan><tspan fill="#AA151B">S</tspan></text></svg>
