@@ -12,3 +12,7 @@ Static website ready for GitHub Pages.
 - Replace placeholder contact details in the footer and Contact page.
 - Replace the Formspree endpoint in `contact.html` with your real endpoint.
 - Review Privacy and Terms before public use.
+
+
+## Photo update
+This version uses external editorial-style photo URLs for the launch website. Replace them with original Academic Exchange Spain photos when available.
