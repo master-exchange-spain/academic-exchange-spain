@@ -1,2 +1,14 @@
-# academic-exchange-spain
-Tailor-Made Academic &amp; Study Abroad Programs in Spain
+# Academic Exchange Spain — Launch Website
+
+Static website ready for GitHub Pages.
+
+## Upload instructions
+1. Unzip this package.
+2. Upload all files and folders to the root of your GitHub repository.
+3. In GitHub: Settings → Pages → Deploy from a branch → main → /(root).
+4. Save and wait 1–3 minutes.
+
+## Important
+- Replace placeholder contact details in the footer and Contact page.
+- Replace the Formspree endpoint in `contact.html` with your real endpoint.
+- Review Privacy and Terms before public use.
