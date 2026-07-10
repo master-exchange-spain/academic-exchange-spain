@@ -9,3 +9,9 @@ The following local destination images are used under Creative Commons licenses 
 - Granada — “Alhambra Granada panorama” by Robert Bovington, CC BY-SA 4.0.
 
 Images were resized by Wikimedia Commons and are displayed with CSS cropping where necessary.
+
+
+## July 2026 updates
+- `assets/img/hero-cibeles.jpg`: “Cybele Palace and Fountain of Cybele in Madrid” by Javier Elices, CC0, via Wikimedia Commons.
+- `assets/img/home-library.jpg`: “Old library 2, University of Salamanca” by Flickr user ablogger/albert, CC BY-SA 2.0, via Wikimedia Commons.
+- `assets/img/research-visits.jpg`: National Institute of Allergy and Infectious Diseases (NIAID), Unsplash License.
