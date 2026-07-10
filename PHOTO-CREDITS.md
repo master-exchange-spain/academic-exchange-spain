@@ -1,9 +1,8 @@
-# Photo credits and image notes
+# Photo credits
 
-The website uses local image files stored in `assets/img/`.
+- Palacio de Cibeles aerial panorama: Oh My Good Guide / AirPano source image.
+- Historic library with students: Granada Hoy, Hospital Real library.
+- Student residence image: cottonbro studio via Pexels (photo 5158946).
+- Research laboratory and city photographs: included locally in this package.
 
-- Palacio de Cibeles and destination photography: project-provided local assets.
-- Academic partnership, academic-solutions, and Spanish-classroom visuals: custom visuals prepared for Academic Exchange Spain.
-- Student residence photography: project-provided local asset.
-
-No page depends on externally hosted image URLs.
+All website image references point to local files under `assets/img/`.
